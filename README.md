@@ -1,7 +1,6 @@
 # Hydroficient IoT Cyber Defense: The Grand Marina
 
 - **Externship:** Hydroficient IoT Cyber Defense Externship (February to April 2026)
-- **Role:** Security Intern
 - **Client scenario:** The Grand Marina, a luxury hotel with 500 rooms using Hydroficient's HYDROLOGIC water flow monitoring system
 
 ## Business problem
