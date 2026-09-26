@@ -1,0 +1,11 @@
+# Private keys must never be committed, even for a demo/lab CA.
+# Only the CA and server/device certificates (public) are safe to publish.
+**/certs/*-key.pem
+**/certs/ca-key.pem
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
