@@ -4,7 +4,7 @@
 **Role:** Security Intern
 **Client scenario:** The Grand Marina, a 500-room luxury hotel using Hydroficient's HYDROLOGIC water flow monitoring system
 
-## Business problem
+## Scenario
 
 The Grand Marina's HYDROLOGIC devices monitor water pressure and flow across the hotel
 and allow remote shutoff through a dashboard. The system was deployed with no
