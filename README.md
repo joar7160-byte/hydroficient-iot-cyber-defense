@@ -6,11 +6,13 @@
 
 ## Business problem
 
-- The Grand Marina's HYDROLOGIC devices monitor water pressure and flow across the hotel and allow remote shutoff through a dashboard
-- The system was deployed with no encryption, no authentication, and no message verification
-- Anyone on the hotel network could read every sensor reading, inject fake data, or replay old commands
-- Because this system controls physical infrastructure, a compromise is not just a data breach. It could mean a potential flood, an ignored leak, or a phantom shutoff order at 2 AM
-- The threat model opens with a real precedent: a $4.2M damage incident caused by an ignored leak alert
+The Grand Marina's HYDROLOGIC devices monitor water pressure and flow across the hotel
+and allow remote shutoff through a dashboard. The system was deployed with no
+encryption, no authentication, and no message verification. Anyone on the hotel network
+could read every sensor reading, inject fake data, or replay old commands. Because this
+system controls physical infrastructure, a compromise is not just a data breach. It could mean a
+potential flood, an ignored leak, or a phantom shutoff order at 2 AM. The threat model
+opens with a real precedent: a $4.2M damage incident caused by an ignored leak alert.
 
 ## What this repo covers
 
